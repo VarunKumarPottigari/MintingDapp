@@ -283,7 +283,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-                          <StyledLink target={"_blank"} href={"https://www.theluckyroon.com/"}>
+                          <StyledLink target={"_blank"} href={"https://discord.gg/yMHkX4YtdA"}>
                 {"Discord"}
               </StyledLink>
             </s.TextDescription>
@@ -293,7 +293,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-                          <StyledLink target={"_blank"} href={"https://www.theluckyroon.com/"}>
+                          <StyledLink target={"_blank"} href={"https://opensea.io/collection/tinyhorrorclub"}>
                 {"OpenSea"}
               </StyledLink>
             </s.TextDescription>
