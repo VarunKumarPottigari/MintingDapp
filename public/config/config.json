@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4170B5c959d88e31fE39c2f710A9764f602f88dF",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4170b5c959d88e31fe39c2f710a9764f602f88df",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Tiny Horror Club Test",
+  "SYMBOL": "THCT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tinyhorrorclubtest",
+  "SHOW_BACKGROUND": true
+}
