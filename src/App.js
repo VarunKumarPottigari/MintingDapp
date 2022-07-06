@@ -310,6 +310,17 @@ function App() {
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
+                        <s.TextTitle
+              style={{
+                textAlign: "center",
+                fontSize: 50,
+                fontWeight: "bold",
+                color: "var(--accent-text)",
+              }}
+            >
+              Mint you NFT here:
+            </s.TextTitle>
+            <s.SpacerLarge />
             <s.TextTitle
               style={{
                 textAlign: "center",
